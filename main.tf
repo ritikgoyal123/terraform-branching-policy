@@ -4,3 +4,6 @@ terraform {
 
 resource "null_resource" "infra" {
 }
+
+resource "null_resource" "infra_update" {
+}
